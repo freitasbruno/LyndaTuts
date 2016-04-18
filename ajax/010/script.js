@@ -1,1 +1,1 @@
-$('.update').load('data.txt');
+$('.update:even').load('data.txt');
